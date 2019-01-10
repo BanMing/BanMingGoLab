@@ -7,3 +7,6 @@ https://blog.csdn.net/yemao_guyue/article/details/80575532
 brew install go-delve/delve/delve
 这个很详细：
 https://www.jianshu.com/p/137854be2458
+
+
+类java的package机制
