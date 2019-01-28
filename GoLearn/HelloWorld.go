@@ -92,6 +92,7 @@ func SliceTest() {
 	//b = ar[3:5]
 }
 func SliceTestTemp() {
+	//a:=make(slice[])
 	a := make(map[int]string)
 	b := a
 
