@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="592934d4-c0f9-4a4a-86fb-79fb5dfbef05" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/GoLearn/channeltest.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GoLearn/gotest.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gohttplearn/readme.md" afterDir="false" />
+    <list default="true" id="592934d4-c0f9-4a4a-86fb-79fb5dfbef05" name="Default Changelist" comment="learn">
+      <change afterPath="$PROJECT_DIR$/GoWebLearn/Login/login.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoWebLearn/Login/login.gtpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoWebLearn/Login/upload.gtpl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoLearn/HelloWorld.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoLearn/HelloWorld.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoLearn/test.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoLearn/test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoLearn/testIm.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoLearn/testIm.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,14 +41,49 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GoLearn/gotest.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+              <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
               <folding>
                 <element signature="e#14#42#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GoWebLearn/Login/login.gtpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/GoWebLearn/Login/login.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="34" column="47" selection-start-line="34" selection-start-column="47" selection-end-line="34" selection-end-column="47" />
+              <folding>
+                <element signature="e#14#43#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GoWebLearn/Login/upload.gtpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -122,25 +153,40 @@
         <option value="$PROJECT_DIR$/GoLearn/gotest.go" />
         <option value="$PROJECT_DIR$/GoLearn/channeltest.go" />
         <option value="$PROJECT_DIR$/gohttplearn/readme.md" />
+        <option value="$PROJECT_DIR$/GoWebLearn/FormLearn/login.gtpl" />
+        <option value="$PROJECT_DIR$/GoWebLearn/Login/upload.gtpl" />
+        <option value="$PROJECT_DIR$/GoWebLearn/Login/login.go" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="x" value="1440" />
+    <option name="y" value="-540" />
+    <option name="width" value="2560" />
+    <option name="height" value="1440" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="BanMingGoLab" type="b2602c69:ProjectViewProjectNode" />
               <item name="BanMingGoLab" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BanMingGoLab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BanMingGoLab" type="462c0819:PsiDirectoryNode" />
+              <item name="GoWebLearn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BanMingGoLab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BanMingGoLab" type="462c0819:PsiDirectoryNode" />
+              <item name="GoWebLearn" type="462c0819:PsiDirectoryNode" />
+              <item name="Login" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="BanMingGoLab" type="b2602c69:ProjectViewProjectNode" />
@@ -155,6 +201,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -173,6 +220,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/GoWebLearn/Login" />
       <recent name="$PROJECT_DIR$/GoLearn" />
     </key>
   </component>
@@ -188,7 +236,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build channeltest.go">
+  <component name="RunManager" selected="Go Build.go build login.go">
     <configuration name="go build channeltest.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="BanMingGoLab" />
       <working_directory value="$PROJECT_DIR$" />
@@ -205,28 +253,38 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
+    <configuration name="go build login.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="BanMingGoLab" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/GoWebLearn/Login/login.go" />
+      <package value="github.com/BanMing/BanMingGoLab" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Go Build.go build gotest.go" />
       <item itemvalue="Go Build.go build channeltest.go" />
+      <item itemvalue="Go Build.go build login.go" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build login.go" />
         <item itemvalue="Go Build.go build channeltest.go" />
         <item itemvalue="Go Build.go build gotest.go" />
       </list>
     </recent_temporary>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
+    <frame x="1440" y="-540" width="2560" height="1440" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21959943" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.123510726" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.19599108" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.19599108" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.27616927" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.2825279" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2821084" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -274,6 +332,18 @@
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
     <proxy>https://goproxy.io</proxy>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/GoWebLearn/Login/login.go</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XPathView.XPathProjectComponent">
     <history />
@@ -427,12 +497,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoWebLearn/Login/upload.gtpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoWebLearn/Login/login.gtpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/GoLearn/gotest.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
           <folding>
             <element signature="e#14#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoWebLearn/Login/login.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="34" column="47" selection-start-line="34" selection-start-column="47" selection-end-line="34" selection-end-column="47" />
+          <folding>
+            <element signature="e#14#43#0" expanded="true" />
           </folding>
         </state>
       </provider>
