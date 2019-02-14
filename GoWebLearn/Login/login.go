@@ -33,12 +33,13 @@ func sayhelloName(w http.ResponseWriter, r *http.Request) {
 func login(w http.ResponseWriter, r *http.Request) {
 	fmt.Println("method: ", r.Method) //获取请求的方法
 	if r.Method == "GET" {
-		t, _ := template.ParseFiles("login.gtpl")
+		t, _ := template.ParseFiles("/BanMingGoLab/GoWebLearn/Login/login.gtpl")
+		//fmt.Println(err)
 		t.Execute(w, nil)
 	} else {
 		//	请求的是登陆数据，那么执行登陆的逻辑判断
-		fmt.Println("username: ", r.Form["username"])
-		fmt.Println("password: ", r.Form["password"])
+		fmt.Println("username: ", len(r.Form["username"]))
+		fmt.Println("password: ", len(r.Form["password"]))
 	}
 }
 func upload(w http.ResponseWriter, r *http.Request) {
@@ -48,7 +49,8 @@ func upload(w http.ResponseWriter, r *http.Request) {
 		h := md5.New()
 		io.WriteString(h, strconv.FormatInt(crutime, 10))
 		token := fmt.Sprintf("%x", h.Sum(nil))
-		t, _ := template.ParseFiles("upload.gtpl")
+		t, _ := template.ParseFiles("/BanMingGoLab/GoWebLearn/Login/upload.gtpl")
+		//fmt.Println(err)
 		t.Execute(w, token)
 	}
 }
