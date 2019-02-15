@@ -1,2 +1,4 @@
+github.com/astaxie/goredis v0.0.0-20160824151742-1f1c6e6fc3a8 h1:XN8UQV0Zro09FeYjkwEdGTmP+QFXfc95EDXKRxhOUAs=
+github.com/astaxie/goredis v0.0.0-20160824151742-1f1c6e6fc3a8/go.mod h1:i0oI4E/DxCwoJG6iblWnjgLaTrbSEOtUxLtcZA6i7ac=
 github.com/pkg/errors v0.8.1 h1:iURUrRGxPUNPdy5/HRSm+Yj6okJ6UtLINN0Q9M4+h3I=
 github.com/pkg/errors v0.8.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
