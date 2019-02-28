@@ -1,4 +1,12 @@
 github.com/astaxie/goredis v0.0.0-20160824151742-1f1c6e6fc3a8 h1:XN8UQV0Zro09FeYjkwEdGTmP+QFXfc95EDXKRxhOUAs=
 github.com/astaxie/goredis v0.0.0-20160824151742-1f1c6e6fc3a8/go.mod h1:i0oI4E/DxCwoJG6iblWnjgLaTrbSEOtUxLtcZA6i7ac=
+github.com/bitly/go-simplejson v0.5.0 h1:6IH+V8/tVMab511d5bn4M7EwGXZf9Hj6i2xSwkNEM+Y=
+github.com/bitly/go-simplejson v0.5.0/go.mod h1:cXHtHw4XUPsvGaxgjIAn8PhEWG9NfngEKAMDJEczWVA=
+github.com/go-mgo/mgo v0.0.0-20180705113738-7446a0344b78 h1:hBwJbR5vAH9QpkALlfmrumVeDaLV0hrOiOc2qEk2FSE=
+github.com/go-mgo/mgo v0.0.0-20180705113738-7446a0344b78/go.mod h1:M6gLQ7smMNhLvDG6Dv6inWBcT/S0rXKM2PNT0/Qu7es=
 github.com/pkg/errors v0.8.1 h1:iURUrRGxPUNPdy5/HRSm+Yj6okJ6UtLINN0Q9M4+h3I=
 github.com/pkg/errors v0.8.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
+gopkg.in/mgo.v2 v2.0.0-20180705113604-9856a29383ce h1:xcEWjVhvbDy+nHP67nPDDpbYrY+ILlfndk4bRioVHaU=
+gopkg.in/mgo.v2 v2.0.0-20180705113604-9856a29383ce/go.mod h1:yeKp02qBN3iKW1OzL3MGk2IdtZzaj7SFntXj72NppTA=
+labix.org/v2/mgo v0.0.0-20140701140051-000000000287 h1:L0cnkNl4TfAXzvdrqsYEmxOHOCv2p5I3taaReO8BWFs=
+labix.org/v2/mgo v0.0.0-20140701140051-000000000287/go.mod h1:Lg7AYkt1uXJoR9oeSZ3W/8IXLdvOfIITgZnommstyz4=

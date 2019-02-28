@@ -13,3 +13,7 @@ http://www.runoob.com/redis/redis-install.html
 Mac：
 
 https://blog.csdn.net/jason_m_ho/article/details/80007330
+
+
+go语言解析：https://github.com/astaxie/goredis
+将redis运行即可
